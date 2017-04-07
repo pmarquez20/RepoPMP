@@ -14,7 +14,7 @@ public class Main2 {
       System.out.println("getCurrentDirectory(): " + chooser.getCurrentDirectory());
       System.out.println("getSelectedFile() : " + chooser.getSelectedFile());
     } else {
-      System.out.println("No Selection ");
+      System.out.println("No Selection 123");
     }
   }
 }
