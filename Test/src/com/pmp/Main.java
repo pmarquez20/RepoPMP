@@ -25,7 +25,7 @@ public class Main {
       System.out.println("Cancel or the close-dialog icon was clicked");
       break;
     case JFileChooser.ERROR_OPTION:
-      System.out.println("Error");
+      System.out.println("Error new");
       break;
     }
   }
